@@ -1,0 +1,9 @@
+.dis_flex{
+    width: 88%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    align-content: center;
+    justify-content: space-between;
+    gap: 15px;
+}
